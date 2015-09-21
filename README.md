@@ -7,6 +7,10 @@ The instructions at the following link were used as reference :
 
 https://cloud.google.com/appengine/docs/java/endpoints/getstarted/backend/helloendpoints
 
+Using .gitignore from here
+
+https://github.com/GoogleCloudPlatform/appengine-endpoints-helloendpoints-java-maven/blob/master/.gitignore
+
 Step1 :
 
 //----------------------------------
