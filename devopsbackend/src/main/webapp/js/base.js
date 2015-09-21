@@ -24,7 +24,7 @@ google.devrel.samples.hello = google.devrel.samples.hello || {};
  * @type {string}
  */
 google.devrel.samples.hello.CLIENT_ID =
-    'replace this with your web client ID';
+    '673402305280-92ibidunpaa5s246a88jca9mu6thjogu.apps.googleusercontent.com';
 
 /**
  * Scopes used by the application.
@@ -167,7 +167,7 @@ google.devrel.samples.hello.enableButtons = function() {
   document.getElementById('authedGreeting').onclick = function() {
     google.devrel.samples.hello.authedGreeting();
   }
-  
+
   document.getElementById('signinButton').onclick = function() {
     google.devrel.samples.hello.auth();
   }
